@@ -13,6 +13,5 @@ Once you are there, you can click on the finaltermproject.ipynb file to the left
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexiefg/finaltermproject.git/HEAD)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/alexiefg/finaltermproject.git/HEAD
+
 
